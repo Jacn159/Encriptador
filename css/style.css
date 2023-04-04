@@ -161,12 +161,14 @@ span:hover{
         all: unset;
         margin: auto;
         padding: 0.4rem 2rem;
-        margin-top: 4rem;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
         border: 1px solid #0A3871;
         color: #0A3871;
         border-radius: 2rem;
     }
     .input_1{
-        all: unset;
+
+        height: 8rem;
     }
 }
